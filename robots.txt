@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /$
+Allow: /app-ads.txt
+Allow: /privacy.html
+Disallow: /
